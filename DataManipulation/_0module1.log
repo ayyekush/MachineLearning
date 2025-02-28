@@ -1,0 +1,3 @@
+2024-10-17 03:51:10 - module1 - DEBUG - This is a debug message from module1.
+2024-10-17 03:51:10 - module1 - INFO - This is an info message from module1.
+2024-10-17 03:51:10 - module1 - WARNING - This is a warning message from module1.

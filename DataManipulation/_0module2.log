@@ -1,0 +1,3 @@
+2024-10-17 03:51:10 - module2 - WARNING - This is a warning message from module2.
+2024-10-17 03:51:10 - module2 - ERROR - This is an error message from module2.
+2024-10-17 03:51:10 - module2 - CRITICAL - This is a critical message from module2.
